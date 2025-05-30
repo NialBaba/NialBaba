@@ -1,0 +1,13 @@
+{
+  "name": "nialbababot",
+  "version": "1.0.0",
+  "description": "Minecraft bot for ChickenNW",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.5.0",
+    "prismarine-viewer": "^1.21.4"
+  }
+}
